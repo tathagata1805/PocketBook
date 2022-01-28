@@ -1,3 +1,6 @@
+## PocketBook
+I always thought of making a ToDo List app, a Calendar app, a Linktree as well as a Note- Making app. <br> So why making four different if you can make one.<br> Hence I made PocketBook, which is a one- stop website that consists of all the four features made using React JS.
+
 # Getting Started with Create React App
 
 
